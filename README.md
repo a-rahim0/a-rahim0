@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a-rahim0
+- 👋 Hi, I’m @abdur4code
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me @shehensa143 on instagram
